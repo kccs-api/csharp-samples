@@ -1,4 +1,4 @@
-# csharplang-samples
+# csharp-samples
 
 KCCS API を C# 言語を使って利用する場合のサンプルコード集です。
 
